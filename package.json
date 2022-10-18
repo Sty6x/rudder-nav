@@ -1,6 +1,6 @@
 {
   "name": "@sty6x/rudder-nav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Repository for testing out different functionalities, css animations, and other stuff for testing",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
