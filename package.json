@@ -1,5 +1,5 @@
 {
-  "name": "test-development",
+  "name": "sty6x/rudder-nav",
   "version": "1.0.0",
   "description": "Repository for testing out different functionalities, css animations, and other stuff for testing",
   "private": true,
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sty6x/test-development.git"
+    "url": "git+https://github.com/Sty6x/rudder-nav.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sty6x/test-development/issues"
+    "url": "https://github.com/Sty6x/rudder-nav/issues"
   },
-  "homepage": "https://github.com/Sty6x/test-development#readme",
+  "homepage": "https://github.com/Sty6x/rudder-nav#readme",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
