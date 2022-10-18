@@ -1,8 +1,7 @@
 {
-  "name": "sty6x/rudder-nav",
+  "name": "@sty6x/rudder-nav",
   "version": "1.0.0",
   "description": "Repository for testing out different functionalities, css animations, and other stuff for testing",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --watch",
